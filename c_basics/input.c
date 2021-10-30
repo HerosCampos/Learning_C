@@ -7,7 +7,7 @@ int main()
 	scanf("%i", &radius);
 
 
-	float area;
+	double area;
 	area = 3.14159 * (radius * radius);
 
 	printf("The area is: %f\n", area);
